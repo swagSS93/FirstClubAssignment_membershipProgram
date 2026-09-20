@@ -196,10 +196,9 @@ sequenceDiagram
 ```
 
 ---
-
-## 📸 Screenshots
-
 ### Subscribed Plan for a User after Auto-Upgrade to Dynamic Tier Level
+
+![Screenshot](img.png)
 
 ---
 
